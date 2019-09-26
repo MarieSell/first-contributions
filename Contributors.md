@@ -162,6 +162,7 @@ Hammad Qureshi
 - [Ernest Lee](https://github.com/leeer812)
   vikvdd
 - [Sourav Aich](https://github.com/souravaich)
+- [MarieSell](https://github.com/MarieSell)
 - [Gaurav Khairnar](https://github.com/gaurav1620)
 - [Mohammed Anas](https://github.com/anasmohammad611)
 - [Paul Pilcher](https://github.com/Paul---)
